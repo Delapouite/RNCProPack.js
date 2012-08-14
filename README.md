@@ -13,9 +13,9 @@ Use recently introduced Uint8Array to emulate a basic pointer mechanism in a bin
 
 ## Based on these previous documentations / implementations :
 
-http://segaretro.org/Rob_Northen_compression
-http://www.yoda.arachsys.com/dk/utils.html
-http://code.google.com/p/corsix-th/wiki/RNC
+- http://segaretro.org/Rob_Northen_compression
+- http://www.yoda.arachsys.com/dk/utils.html
+- http://code.google.com/p/corsix-th/wiki/RNC
 
 ## TODO
 - pack() method
